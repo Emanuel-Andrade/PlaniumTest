@@ -1,0 +1,30 @@
+.container{
+    text-align: left;
+    margin-top: 3em;
+    margin-left: 7%;
+}
+
+.title{
+    font-weight: 700;
+}
+.card{
+    width: 60%;
+    font-size: 1em;
+    margin-left: 5%;
+    margin-bottom: 2em;
+    border-bottom: 1px solid #bbb
+
+}
+.title span{
+    color: #693683;
+    font-weight: 600;
+    font-style: italic;
+}
+p{
+    font-size: 1.3em;
+    font-style: italic;
+    color: rgb(77, 75, 75);
+
+}.resulte span{
+    font-style: italic
+}
