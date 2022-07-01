@@ -9,7 +9,7 @@ const NavBar =()=>{
         <div className={style.navbar} > 
            <NavLink to='/'> <p> Our<span className='logo-span'>Plan</span></p> </NavLink>
             <ul className={style.link_list} > 
-                <li><NavLink className={ ({isActive}) => isActive ? style.active :'' } to='/'> Home </NavLink></li>
+                <li><NavLink className={ ({isActive}) => isActive ? style.active :'' } to='/ourplan'> Home </NavLink></li>
                 <li><NavLink className={ ({isActive}) => isActive ? style.active :'' } to='/register'> Simular Plano </NavLink></li>
                 <li><NavLink className={ ({isActive}) => isActive ? style.active :'' } to='/consult'> Consultar Planos </NavLink></li>
             </ul>
