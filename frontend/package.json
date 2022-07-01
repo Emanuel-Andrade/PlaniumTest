@@ -1,7 +1,7 @@
 {
   "name": "mini_blog",
   "version": "0.1.0",
-  "homepage": "https://emanuel-andrade.github.io/",
+  "homepage": "https://emanuel-andrade.github.io/ourplan/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
