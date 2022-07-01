@@ -2,7 +2,7 @@
 
 ## About
 
-Projeto feito para demonstração de registro em um plano de saúde com regras de negócio diferente para cada plano e faixa etária. 
+Project made to demonstrate registration in a health plan with different business rules for each plan and age group.
 
 ## Technologies used 
 
