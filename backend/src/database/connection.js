@@ -6,9 +6,9 @@ const knex = require('knex')({
   client: 'mysql2',
   connection: {
     host: process.env.DATABASEHOST,
-    user: 'root',
+    user: process.env.DATABASEUSER,
     password: process.env.DATABASEPASSWORD,
-    database: 'planium',
+    database: process.env.DATABASE,
   },
 });
 

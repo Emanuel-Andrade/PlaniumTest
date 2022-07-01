@@ -40,3 +40,7 @@
     border-radius: 5px;
     color: white
 }
+/* Mobile */
+@media(max-width:580px){
+  
+}
