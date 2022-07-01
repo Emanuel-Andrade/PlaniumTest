@@ -125,3 +125,7 @@ select{
     padding: 5px;
     border-radius: 5px;
 }
+.logo-span{
+    font-weight: bold;
+    color: #b349f0;
+}

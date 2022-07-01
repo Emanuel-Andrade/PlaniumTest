@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className={style.footer} >
 
-        <p> PLANIUM &copy;2022 </p>
+        <p> Our<span className="logo-span">Plan</span> &copy;2022 </p>
 
     </div>
   )
