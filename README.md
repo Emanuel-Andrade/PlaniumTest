@@ -2,7 +2,7 @@
 
 ## About
 
-Project made to demonstrate registration in a health plan with different business rules for each plan and age group. [Click Here](https://emanuel-andrade.github.io/ourplan.github.io/) to check the page online.
+Project made to demonstrate registration in a health plan with different business rules for each plan and age group. [Click Here](https://emanuel-andrade.github.io/ourplan) to check the page online. Responsiveness for mobile devices has not yet been finalized, page is only ready for computer screens.
 
 ## Technologies used 
 
@@ -17,4 +17,8 @@ Project made to demonstrate registration in a health plan with different busines
  * Redux
  * HTML
  * CSS
+
+ ## To develop
+
+ - [ ] Responsiveness for mobile devices
  
